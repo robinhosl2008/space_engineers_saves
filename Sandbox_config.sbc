@@ -42,7 +42,7 @@
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
-    <EnableIngameScripts>false</EnableIngameScripts>
+    <EnableIngameScripts>true</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
@@ -117,6 +117,14 @@
       <Name>758597413.sbm</Name>
       <PublishedFileId>758597413</PublishedFileId>
       <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Clear LCD">
+      <Name>562524620.sbm</Name>
+      <PublishedFileId>562524620</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Azimuth Passenger Seat &amp; Open Cockpit~(DX-11 Ready)">
+      <Name>468593951.sbm</Name>
+      <PublishedFileId>468593951</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="Ore Detector++">
       <Name>1941903112.sbm</Name>
