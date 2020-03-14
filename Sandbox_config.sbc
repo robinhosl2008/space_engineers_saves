@@ -79,7 +79,7 @@
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>3000</SyncDistance>
-    <ExperimentalMode>false</ExperimentalMode>
+    <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
@@ -112,5 +112,19 @@
     <StationsDistanceOuterRadiusEnd>30000000</StationsDistanceOuterRadiusEnd>
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
   </Settings>
-  <Mods />
+  <Mods>
+    <ModItem FriendlyName="Text HUD API">
+      <Name>758597413.sbm</Name>
+      <PublishedFileId>758597413</PublishedFileId>
+      <IsDependency>true</IsDependency>
+    </ModItem>
+    <ModItem FriendlyName="Ore Detector++">
+      <Name>1941903112.sbm</Name>
+      <PublishedFileId>1941903112</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Paint Gun - realistic painting for suvival + special creative features">
+      <Name>500818376.sbm</Name>
+      <PublishedFileId>500818376</PublishedFileId>
+    </ModItem>
+  </Mods>
 </MyObjectBuilder_WorldConfiguration>

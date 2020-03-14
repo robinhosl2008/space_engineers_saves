@@ -10,13 +10,13 @@
       <MyObjectBuilder_GlobalEventBase>
         <SubtypeName>SpawnCargoShip</SubtypeName>
         <Enabled>true</Enabled>
-        <ActivationTimeMs>1741528</ActivationTimeMs>
+        <ActivationTimeMs>458137</ActivationTimeMs>
       </MyObjectBuilder_GlobalEventBase>
     </Events>
   </SectorEvents>
   <AppVersion>1193103</AppVersion>
   <Environment>
-    <SunAzimuth>-3.14159274</SunAzimuth>
+    <SunAzimuth>3.14159274</SunAzimuth>
     <SunElevation>0</SunElevation>
     <SunIntensity>0</SunIntensity>
     <FogMultiplier>0</FogMultiplier>
@@ -637,14 +637,14 @@
       <EntityId>81109865192035840</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9399.54826435319" y="48538.0055153351" z="36711.340768722541" />
-        <Forward x="0.738350868" y="0.317454815" z="-0.5950298" />
-        <Up x="0.150289625" y="0.782652855" z="0.6040427" />
+        <Position x="9399.5482890803469" y="48538.005533217569" z="36711.340743493485" />
+        <Forward x="0.7383498" y="0.317447782" z="-0.595034838" />
+        <Up x="0.150294587" y="0.7826567" z="0.6040364" />
         <Orientation>
-          <X>0.264469</X>
-          <Y>-0.36406216</Y>
-          <Z>-0.196798712</Z>
-          <W>0.8710828</W>
+          <X>0.264464766</X>
+          <Y>-0.364061773</Y>
+          <Z>-0.196799412</Z>
+          <W>0.871084034</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -670,88 +670,88 @@
           <AttachedEntityId>87475883030436018</AttachedEntityId>
           <MasterToSlave>
             <OrientationOffset>
-              <X>0.00469362</X>
-              <Y>-0.710615337</Y>
-              <Z>0.0008574204</Z>
-              <W>0.7035646</W>
+              <X>0.00469096657</X>
+              <Y>-0.710615456</Y>
+              <Z>0.00085586065</Z>
+              <W>0.703564465</W>
             </OrientationOffset>
             <PositionOffset>
-              <X>24.9675312</X>
-              <Y>1.58253443</Y>
-              <Z>-7.505082</Z>
+              <X>24.9675579</X>
+              <Y>1.58253646</Y>
+              <Z>-7.505086</Z>
             </PositionOffset>
             <OrientationAsVector>
-              <X>0.00469362</X>
-              <Y>-0.710615337</Y>
-              <Z>0.0008574204</Z>
-              <W>0.7035646</W>
+              <X>0.00469096657</X>
+              <Y>-0.710615456</Y>
+              <Z>0.00085586065</Z>
+              <W>0.703564465</W>
             </OrientationAsVector>
           </MasterToSlave>
           <GearPivotPosition>
-            <X>0.00154717662</X>
-            <Y>-0.273457974</Y>
-            <Z>0.0244201031</Z>
+            <X>0.00154709909</X>
+            <Y>-0.273458034</Y>
+            <Z>0.0244200677</Z>
           </GearPivotPosition>
           <OtherPivot>
             <Position>
-              <X>24.94525</X>
-              <Y>1.308888</Y>
-              <Z>-7.505254</Z>
+              <X>24.9452763</X>
+              <Y>1.3088901</Y>
+              <Z>-7.50525761</Z>
             </Position>
             <Orientation>
-              <PackedValue>4152621251018300622</PackedValue>
+              <PackedValue>4152621238133398734</PackedValue>
             </Orientation>
             <Matrix>
-              <M11>-0.009477655</M11>
-              <M12>-0.00546047557</M12>
+              <M11>-0.00947765</M11>
+              <M12>-0.00546248863</M12>
               <M13>0.999771059</M13>
               <M14>0</M14>
-              <M21>-0.007873456</M21>
+              <M21>-0.007871443</M21>
               <M22>0.9999545</M22>
-              <M23>0.00538460445</M23>
+              <M23>0.005386637</M23>
               <M24>0</M24>
               <M31>-0.999754965</M31>
-              <M32>-0.007821028</M32>
+              <M32>-0.007818995</M32>
               <M33>-0.009520216</M33>
               <M34>0</M34>
-              <M41>24.94525</M41>
-              <M42>1.308888</M42>
-              <M43>-7.505254</M43>
+              <M41>24.9452763</M41>
+              <M42>1.3088901</M42>
+              <M43>-7.50525761</M43>
               <M44>1</M44>
               <Up>
-                <X>-0.007873456</X>
+                <X>-0.007871443</X>
                 <Y>0.9999545</Y>
-                <Z>0.00538460445</Z>
+                <Z>0.005386637</Z>
               </Up>
               <Down>
-                <X>0.007873456</X>
+                <X>0.007871443</X>
                 <Y>-0.9999545</Y>
-                <Z>-0.00538460445</Z>
+                <Z>-0.005386637</Z>
               </Down>
               <Right>
-                <X>-0.009477655</X>
-                <Y>-0.00546047557</Y>
+                <X>-0.00947765</X>
+                <Y>-0.00546248863</Y>
                 <Z>0.999771059</Z>
               </Right>
               <Left>
-                <X>0.009477655</X>
-                <Y>0.00546047557</Y>
+                <X>0.00947765</X>
+                <Y>0.00546248863</Y>
                 <Z>-0.999771059</Z>
               </Left>
               <Forward>
                 <X>0.999754965</X>
-                <Y>0.007821028</Y>
+                <Y>0.007818995</Y>
                 <Z>0.009520216</Z>
               </Forward>
               <Backward>
                 <X>-0.999754965</X>
-                <Y>-0.007821028</Y>
+                <Y>-0.007818995</Y>
                 <Z>-0.009520216</Z>
               </Backward>
               <Translation>
-                <X>24.94525</X>
-                <Y>1.308888</Y>
-                <Z>-7.505254</Z>
+                <X>24.9452763</X>
+                <Y>1.3088901</Y>
+                <Z>-7.50525761</Z>
               </Translation>
             </Matrix>
           </OtherPivot>
@@ -762,6 +762,7 @@
           <EntityId>100816620094742466</EntityId>
           <Min x="-1" y="2" z="-2" />
           <BlockOrientation Forward="Left" Up="Up" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <Owner>144115188075855897</Owner>
           <BuiltBy>144115188075855897</BuiltBy>
           <ShareMode>Faction</ShareMode>
@@ -815,6 +816,7 @@
           <EntityId>81085100317120539</EntityId>
           <Min x="-1" y="2" z="-4" />
           <BlockOrientation Forward="Forward" Up="Down" />
+          <ColorMaskHSV x="0" y="0.15" z="0.25" />
           <Owner>144115188075855897</Owner>
           <BuiltBy>144115188075855897</BuiltBy>
           <ShareMode>Faction</ShareMode>
@@ -825,7 +827,7 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>2122.415188</Amount>
+                      <Amount>2122.187513</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                         <SubtypeName>Ice</SubtypeName>
                       </PhysicalContent>
@@ -855,6 +857,7 @@
           <EntityId>141012283848396397</EntityId>
           <Min x="-1" y="2" z="2" />
           <BlockOrientation Forward="Down" Up="Forward" />
+          <ColorMaskHSV x="0" y="0.15" z="0.25" />
           <Owner>144115188075855897</Owner>
           <BuiltBy>144115188075855897</BuiltBy>
           <ShareMode>Faction</ShareMode>
@@ -864,12 +867,36 @@
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.215026855</CurrentStoredPower>
-          <ProducerEnabled>true</ProducerEnabled>
+          <CurrentStoredPower>0.206201628</CurrentStoredPower>
+          <ProducerEnabled>false</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
           <OnlyDischargeEnabled>false</OnlyDischargeEnabled>
-          <ChargeMode>0</ChargeMode>
+          <ChargeMode>1</ChargeMode>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>SmallBlockArmorBlock</SubtypeName>
+          <Min x="2" y="4" z="-4" />
+          <ColorMaskHSV x="0" y="0.15" z="0.25" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SolarPanel">
+          <SubtypeName>SmallBlockSolarPanel</SubtypeName>
+          <EntityId>112869012072021124</EntityId>
+          <Min x="-2" y="5" z="-4" />
+          <BlockOrientation Forward="Forward" Up="Left" />
+          <ColorMaskHSV x="0" y="0.15" z="0.25" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <Owner>144115188075855897</Owner>
+          <BuiltBy>144115188075855897</BuiltBy>
+          <ShareMode>Faction</ShareMode>
+          <CustomName>Painel Solar</CustomName>
+          <ShowOnHUD>false</ShowOnHUD>
+          <ShowInTerminal>true</ShowInTerminal>
+          <ShowInToolbarConfig>true</ShowInToolbarConfig>
+          <ShowInInventory>true</ShowInInventory>
+          <Enabled>true</Enabled>
         </MyObjectBuilder_CubeBlock>
       </CubeBlocks>
       <ConveyorLines>
@@ -901,14 +928,14 @@
       <EntityId>120727039431970472</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35349.809375250989" y="46718.828546341028" z="28062.897838108947" />
-        <Forward x="-0.8248857" y="0.335991085" z="-0.454613626" />
-        <Up x="0.179700792" y="-0.606632" z="-0.774406254" />
+        <Position x="-35349.8011784572" y="46718.825755922429" z="28062.900415920973" />
+        <Forward x="-0.8237941" y="0.328353345" z="-0.462111741" />
+        <Up x="0.188627571" y="-0.6099508" z="-0.769661844" />
         <Orientation>
-          <X>0.39244163</X>
-          <Y>-0.344503671</Y>
-          <Z>0.805795</Z>
-          <W>-0.279286921</W>
+          <X>0.3915522</X>
+          <Y>-0.340045542</Y>
+          <Z>0.807256043</Z>
+          <W>-0.28176862</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -924,14 +951,14 @@
       <EntityId>86043224818747407</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35212.372952925318" y="46622.977665204075" z="28083.891621623894" />
-        <Forward x="0.718617141" y="-0.3961218" z="0.5715565" />
-        <Up x="-0.379776239" y="-0.912064731" z="-0.154621616" />
+        <Position x="-35212.120187001288" y="46622.92963920378" z="28083.723828942835" />
+        <Forward x="0.62161" y="-0.415023685" z="0.6643463" />
+        <Up x="-0.192708835" y="-0.903066" z="-0.383842051" />
         <Orientation>
-          <X>0.8755237</X>
-          <Y>-0.138695881</Y>
-          <Z>-0.435305238</Z>
-          <W>-0.157261148</W>
+          <X>0.9119574</X>
+          <Y>-0.0225159042</Y>
+          <Z>-0.34621793</Z>
+          <W>-0.2189976</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -947,14 +974,14 @@
       <EntityId>136987035158580780</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35324.337476240747" y="46696.246427792576" z="28066.608896289727" />
-        <Forward x="-0.2632412" y="-0.8982872" z="-0.3518296" />
-        <Up x="0.546346843" y="0.161762163" z="-0.8217895" />
+        <Position x="-35324.3374511767" y="46696.246339185469" z="28066.60882201916" />
+        <Forward x="-0.2632022" y="-0.898249865" z="-0.351954073" />
+        <Up x="0.5463393" y="0.161900058" z="-0.82176733" />
         <Orientation>
-          <X>-0.5660221</X>
-          <Y>-0.0608620122</Y>
-          <Z>-0.3142259</Z>
-          <W>0.7597216</W>
+          <X>-0.565968156</X>
+          <Y>-0.06085234</Y>
+          <Z>-0.314213365</Z>
+          <W>0.7597678</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -970,14 +997,14 @@
       <EntityId>96527341488919506</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35300.352063643091" y="46672.556057232883" z="28072.224562679192" />
-        <Forward x="-0.379679382" y="-0.6418444" z="0.6662425" />
-        <Up x="-0.190692753" y="-0.650406241" z="-0.735260367" />
+        <Position x="-35300.338933186591" y="46672.553727491133" z="28072.224157960474" />
+        <Forward x="-0.374160647" y="-0.643067658" z="0.6681821" />
+        <Up x="-0.191037387" y="-0.6516158" z="-0.734098852" />
         <Orientation>
-          <X>0.897482634</X>
-          <Y>-0.166271642</Y>
-          <Z>0.140456825</Z>
-          <W>-0.3836021</W>
+          <X>0.898230433</X>
+          <Y>-0.165145889</Y>
+          <Z>0.137804225</Z>
+          <W>-0.3833</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -993,14 +1020,14 @@
       <EntityId>112002895461652744</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9381.5380499893163" y="48531.500656764714" z="36723.955775827329" />
-        <Forward x="0.916681468" y="0.112803578" z="-0.383367181" />
-        <Up x="0.152442068" y="0.788080931" z="0.5963974" />
+        <Position x="9384.6892273585418" y="48532.858063107822" z="36721.356974132614" />
+        <Forward x="0.487536848" y="-0.5846996" z="0.648408651" />
+        <Up x="0.1523415" y="0.7882248" z="0.596232831" />
         <Orientation>
-          <X>0.222459</X>
-          <Y>-0.5087518</Y>
-          <Z>-0.2376374</Z>
-          <W>0.7970019</W>
+          <X>-0.01089579</X>
+          <Y>0.9077917</Y>
+          <Z>0.32522127</Z>
+          <W>-0.2646256</W>
         </Orientation>
       </PositionAndOrientation>
       <ComponentContainer>
@@ -1038,11 +1065,11 @@
                     <SubtypeName>Welder2Item</SubtypeName>
                     <GunEntity xsi:type="MyObjectBuilder_Welder">
                       <SubtypeName>Welder2</SubtypeName>
-                      <EntityId>119147188140791368</EntityId>
+                      <EntityId>94845624138511452</EntityId>
                       <PersistentFlags>None</PersistentFlags>
                     </GunEntity>
                   </PhysicalContent>
-                  <ItemId>2</ItemId>
+                  <ItemId>0</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>1</Amount>
@@ -1050,11 +1077,11 @@
                     <SubtypeName>AngleGrinder2Item</SubtypeName>
                     <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
                       <SubtypeName>AngleGrinder2</SubtypeName>
-                      <EntityId>119029984271972022</EntityId>
+                      <EntityId>97913348503014279</EntityId>
                       <PersistentFlags>None</PersistentFlags>
                     </GunEntity>
                   </PhysicalContent>
-                  <ItemId>3</ItemId>
+                  <ItemId>1</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>1</Amount>
@@ -1062,29 +1089,22 @@
                     <SubtypeName>HandDrill2Item</SubtypeName>
                     <GunEntity xsi:type="MyObjectBuilder_HandDrill">
                       <SubtypeName>HandDrill2</SubtypeName>
-                      <EntityId>108667112601924498</EntityId>
+                      <EntityId>105469151553495414</EntityId>
                       <PersistentFlags>None</PersistentFlags>
                     </GunEntity>
                   </PhysicalContent>
-                  <ItemId>4</ItemId>
+                  <ItemId>2</ItemId>
                 </MyObjectBuilder_InventoryItem>
                 <MyObjectBuilder_InventoryItem>
                   <Amount>1</Amount>
                   <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
                     <SubtypeName>HydrogenBottle</SubtypeName>
-                    <GasLevel>1</GasLevel>
+                    <GasLevel>0.8086121</GasLevel>
                   </PhysicalContent>
-                  <ItemId>57</ItemId>
-                </MyObjectBuilder_InventoryItem>
-                <MyObjectBuilder_InventoryItem>
-                  <Amount>263</Amount>
-                  <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                    <SubtypeName>SteelPlate</SubtypeName>
-                  </PhysicalContent>
-                  <ItemId>62</ItemId>
+                  <ItemId>3</ItemId>
                 </MyObjectBuilder_InventoryItem>
               </Items>
-              <nextItemId>63</nextItemId>
+              <nextItemId>17</nextItemId>
               <Volume>0.4</Volume>
               <Mass>9223372036854.775807</Mass>
               <MaxItemCount>2147483647</MaxItemCount>
@@ -1104,11 +1124,11 @@
               <SubtypeName>Welder2Item</SubtypeName>
               <GunEntity xsi:type="MyObjectBuilder_Welder">
                 <SubtypeName>Welder2</SubtypeName>
-                <EntityId>119147188140791368</EntityId>
+                <EntityId>94845624138511452</EntityId>
                 <PersistentFlags>None</PersistentFlags>
               </GunEntity>
             </PhysicalContent>
-            <ItemId>2</ItemId>
+            <ItemId>0</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>1</Amount>
@@ -1116,11 +1136,11 @@
               <SubtypeName>AngleGrinder2Item</SubtypeName>
               <GunEntity xsi:type="MyObjectBuilder_AngleGrinder">
                 <SubtypeName>AngleGrinder2</SubtypeName>
-                <EntityId>119029984271972022</EntityId>
+                <EntityId>97913348503014279</EntityId>
                 <PersistentFlags>None</PersistentFlags>
               </GunEntity>
             </PhysicalContent>
-            <ItemId>3</ItemId>
+            <ItemId>1</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>1</Amount>
@@ -1128,29 +1148,22 @@
               <SubtypeName>HandDrill2Item</SubtypeName>
               <GunEntity xsi:type="MyObjectBuilder_HandDrill">
                 <SubtypeName>HandDrill2</SubtypeName>
-                <EntityId>108667112601924498</EntityId>
+                <EntityId>105469151553495414</EntityId>
                 <PersistentFlags>None</PersistentFlags>
               </GunEntity>
             </PhysicalContent>
-            <ItemId>4</ItemId>
+            <ItemId>2</ItemId>
           </MyObjectBuilder_InventoryItem>
           <MyObjectBuilder_InventoryItem>
             <Amount>1</Amount>
             <PhysicalContent xsi:type="MyObjectBuilder_GasContainerObject">
               <SubtypeName>HydrogenBottle</SubtypeName>
-              <GasLevel>1</GasLevel>
+              <GasLevel>0.8086121</GasLevel>
             </PhysicalContent>
-            <ItemId>57</ItemId>
-          </MyObjectBuilder_InventoryItem>
-          <MyObjectBuilder_InventoryItem>
-            <Amount>263</Amount>
-            <PhysicalContent xsi:type="MyObjectBuilder_Component">
-              <SubtypeName>SteelPlate</SubtypeName>
-            </PhysicalContent>
-            <ItemId>62</ItemId>
+            <ItemId>3</ItemId>
           </MyObjectBuilder_InventoryItem>
         </Items>
-        <nextItemId>63</nextItemId>
+        <nextItemId>17</nextItemId>
         <Volume>0.4</Volume>
         <Mass>9223372036854.775807</Mass>
         <MaxItemCount>2147483647</MaxItemCount>
@@ -1159,26 +1172,26 @@
         <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
       </Inventory>
       <Battery>
-        <CurrentCapacity>9.212849E-06</CurrentCapacity>
+        <CurrentCapacity>7.18976071E-06</CurrentCapacity>
         <RegenEffects />
       </Battery>
       <LightEnabled>true</LightEnabled>
       <UsingLadder xsi:nil="true" />
-      <HeadAngle x="-12.9300117" y="0" />
+      <HeadAngle x="-9.685467" y="0" />
       <LinearVelocity x="0" y="0" z="0" />
       <AutoenableJetpackDelay>0</AutoenableJetpackDelay>
       <JetpackEnabled>false</JetpackEnabled>
-      <ColorMaskHSV x="1" y="0" z="0" />
+      <ColorMaskHSV x="0" y="-0.8" z="-0.450000018" />
       <LootingCounter>0</LootingCounter>
       <DisplayName>Seele</DisplayName>
       <IsInFirstPersonView>true</IsInFirstPersonView>
       <EnableBroadcasting>true</EnableBroadcasting>
       <OxygenLevel>0.998950541</OxygenLevel>
-      <EnvironmentOxygenLevel>0.8013628</EnvironmentOxygenLevel>
+      <EnvironmentOxygenLevel>0.801362753</EnvironmentOxygenLevel>
       <StoredGases>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Hydrogen" />
-          <FillLevel>1</FillLevel>
+          <FillLevel>0.5583436</FillLevel>
         </StoredGas>
         <StoredGas>
           <Id Type="MyObjectBuilder_GasProperties" Subtype="Oxygen" />
@@ -1195,6 +1208,22 @@
       <OwningPlayerIdentityId>144115188075855897</OwningPlayerIdentityId>
       <IsPersistenceCharacter>true</IsPersistenceCharacter>
       <RelativeDampeningEntity>0</RelativeDampeningEntity>
+      <BuildPlanner>
+        <BuildPlanItem>
+          <BlockId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
+          <IsInProgress>false</IsInProgress>
+          <Components>
+            <ComponentItem>
+              <ComponentId Type="MyObjectBuilder_Component" Subtype="SteelPlate" />
+              <Count>20</Count>
+            </ComponentItem>
+            <ComponentItem>
+              <ComponentId Type="MyObjectBuilder_Component" Subtype="SteelPlate" />
+              <Count>5</Count>
+            </ComponentItem>
+          </Components>
+        </BuildPlanItem>
+      </BuildPlanner>
       <UsingLadderInfo xsi:nil="true" />
     </MyObjectBuilder_EntityBase>
     <MyObjectBuilder_EntityBase xsi:type="MyObjectBuilder_FloatingObject">
@@ -1202,14 +1231,14 @@
       <EntityId>125660955315901694</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35290.007081495874" y="46654.172390240696" z="28079.528859172722" />
-        <Forward x="0.999662161" y="-0.000472649932" z="-0.02598544" />
-        <Up x="-0.00215323642" y="-0.9979034" z="-0.06468435" />
+        <Position x="-35290.000905232489" y="46654.163548810713" z="28079.528201730311" />
+        <Forward x="0.9996025" y="0.0230363756" z="-0.0162457619" />
+        <Up x="0.0224352367" y="-0.9990902" z="-0.0362621062" />
         <Orientation>
-          <X>-0.6974987</X>
-          <Y>-0.0224248488</Y>
-          <Z>0.7158543</Z>
-          <W>0.02335381</W>
+          <X>-0.7010311</X>
+          <Y>-0.0207973868</Y>
+          <Z>0.712811768</Z>
+          <W>0.00471653044</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -1225,14 +1254,14 @@
       <EntityId>74257536192699923</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9356.9161097394572" y="48613.328568099038" z="36613.28532960797" />
-        <Forward x="0.308005065" y="-0.571818531" z="0.7603659" />
-        <Up x="-0.188674316" y="-0.820059061" z="-0.5402824" />
+        <Position x="9356.915975322212" y="48613.328452228685" z="36613.28462637608" />
+        <Forward x="0.309268773" y="-0.564831555" z="0.765060663" />
+        <Up x="-0.187111288" y="-0.8249178" z="-0.5333851" />
         <Orientation>
-          <X>0.9371384</X>
-          <Y>-0.04421068</Y>
-          <Z>-0.178328753</Z>
-          <W>-0.2966747</W>
+          <X>0.9383981</X>
+          <Y>-0.0440387242</Y>
+          <Z>-0.17851609</Z>
+          <W>-0.292577535</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -1248,14 +1277,14 @@
       <EntityId>134992160484570947</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="10548.380812345658" y="47563.181732771889" z="37553.222638873107" />
-        <Forward x="0.159512252" y="0.370711327" z="-0.9149475" />
-        <Up x="0.47746405" y="0.7822305" z="0.400179327" />
+        <Position x="10548.371930827583" y="47563.177725910326" z="37553.223461520123" />
+        <Forward x="0.1595946" y="0.3762589" z="-0.9126657" />
+        <Up x="0.4774448" y="0.7797767" z="0.404962659" />
         <Orientation>
-          <X>0.20425038</X>
-          <Y>-0.0284259</Y>
-          <Z>-0.2591651</Z>
-          <W>0.9435609</W>
+          <X>0.20712547</X>
+          <Y>-0.0276795644</Y>
+          <Z>-0.259250253</Z>
+          <W>0.9429328</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -1445,19 +1474,19 @@
       </PositionAndOrientation>
       <GridSizeEnum>Large</GridSizeEnum>
       <CubeBlocks>
-        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
-          <SubtypeName>ConveyorTubeCurved</SubtypeName>
-          <EntityId>74860381106909784</EntityId>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
+          <SubtypeName>LargeBlockConveyor</SubtypeName>
+          <EntityId>101744374460691284</EntityId>
           <Min x="-1" y="0" z="0" />
-          <BlockOrientation Forward="Forward" Up="Left" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <BlockOrientation Forward="Left" Up="Up" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
@@ -1474,7 +1503,7 @@
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>2.99993539</CurrentStoredPower>
+          <CurrentStoredPower>2.99999976</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -1611,11 +1640,11 @@
           <Enabled>true</Enabled>
           <ImmediateEffectivities>
             <float>1</float>
-            <float>0.666888952</float>
+            <float>0.6668899</float>
             <float>1</float>
             <float>0.6668888</float>
             <float>1</float>
-            <float>0.666888952</float>
+            <float>0.666889131</float>
             <float>1</float>
             <float>0.6668895</float>
             <float>1</float>
@@ -1634,8 +1663,7 @@
           <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
           <EntityId>103487604363053925</EntityId>
           <Min x="3" y="1" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ShipConnector">
@@ -1681,8 +1709,7 @@
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-4" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorSorter">
@@ -1700,7 +1727,7 @@
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>116</nextItemId>
+                  <nextItemId>18</nextItemId>
                   <Volume>1</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -1717,9 +1744,13 @@
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <IsWhiteList>false</IsWhiteList>
+          <IsWhiteList>true</IsWhiteList>
           <DefinitionIds />
-          <DefinitionTypes />
+          <DefinitionTypes>
+            <unsignedByte>1</unsignedByte>
+            <unsignedByte>2</unsignedByte>
+            <unsignedByte>3</unsignedByte>
+          </DefinitionTypes>
           <DrainAll>true</DrainAll>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
@@ -1736,6 +1767,93 @@
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items>
                     <MyObjectBuilder_InventoryItem>
+                      <Amount>28</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>RadioCommunication</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>0</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
+                        <SubtypeName>OxygenBottle</SubtypeName>
+                        <GasLevel>1</GasLevel>
+                        <OxygenLevel>0</OxygenLevel>
+                      </PhysicalContent>
+                      <ItemId>1</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1901</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
+                        <SubtypeName>SpaceCredit</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>2</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                        <SubtypeName>AutomaticRifleItem</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>3</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                        <SubtypeName>AutomaticRifleItem</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>4</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>45</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>Display</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>5</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>3</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+                        <SubtypeName>NATO_5p56x45mm</SubtypeName>
+                        <ProjectilesCount>0</ProjectilesCount>
+                      </PhysicalContent>
+                      <ItemId>6</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>7</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_ConsumableItem">
+                        <SubtypeName>Powerkit</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>8</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>28</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>MetalGrid</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>9</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>PowerCell</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>10</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>2148</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>SteelPlate</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>11</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>53</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>LargeTube</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>12</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
                       <Amount>1</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Datapad">
                         <SubtypeName>Datapad</SubtypeName>
@@ -1746,30 +1864,7 @@ Mas parece que não vou poder ir para aqueles lados pra lucrar com esse lance, e
 GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.2359499931:
 </Data>
                       </PhysicalContent>
-                      <ItemId>0</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>8</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Detector</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>1</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>28</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>RadioCommunication</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>2</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_OxygenContainerObject">
-                        <SubtypeName>OxygenBottle</SubtypeName>
-                        <GasLevel>1</GasLevel>
-                        <OxygenLevel>0</OxygenLevel>
-                      </PhysicalContent>
-                      <ItemId>3</ItemId>
+                      <ItemId>13</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
                       <Amount>1</Amount>
@@ -1781,21 +1876,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
 GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.2359499931:
 </Data>
                       </PhysicalContent>
-                      <ItemId>4</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1901</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalObject">
-                        <SubtypeName>SpaceCredit</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>5</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                        <SubtypeName>AutomaticRifleItem</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>6</ItemId>
+                      <ItemId>14</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
                       <Amount>1</Amount>
@@ -1807,137 +1888,93 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
 GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.2359499931:
 </Data>
                       </PhysicalContent>
-                      <ItemId>7</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>45</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Display</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>8</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
-                        <SubtypeName>AutomaticRifleItem</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>9</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>3</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                        <SubtypeName>NATO_5p56x45mm</SubtypeName>
-                        <ProjectilesCount>0</ProjectilesCount>
-                      </PhysicalContent>
-                      <ItemId>10</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>3</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Girder</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>11</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>7</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_ConsumableItem">
-                        <SubtypeName>Powerkit</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>12</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>19</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>MetalGrid</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>13</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>PowerCell</SubtypeName>
-                      </PhysicalContent>
                       <ItemId>15</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>53</Amount>
+                      <Amount>8</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>LargeTube</SubtypeName>
+                        <SubtypeName>Detector</SubtypeName>
                       </PhysicalContent>
                       <ItemId>16</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>16</Amount>
+                      <Amount>26</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Motor</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>17</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>36.69687</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
-                        <SubtypeName>Stone</SubtypeName>
+                        <SubtypeName>BulletproofGlass</SubtypeName>
                       </PhysicalContent>
                       <ItemId>20</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>13.66215</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
-                        <SubtypeName>Iron</SubtypeName>
+                      <Amount>3900</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
+                        <SubtypeName>PaintGunMag</SubtypeName>
+                        <ProjectilesCount>0</ProjectilesCount>
                       </PhysicalContent>
                       <ItemId>21</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>1.092972</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
-                        <SubtypeName>Nickel</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>22</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>1.82162</Amount>
-                      <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
-                        <SubtypeName>Silicon</SubtypeName>
-                      </PhysicalContent>
-                      <ItemId>23</ItemId>
-                    </MyObjectBuilder_InventoryItem>
-                    <MyObjectBuilder_InventoryItem>
-                      <Amount>44</Amount>
+                      <Amount>24</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>InteriorPlate</SubtypeName>
+                        <SubtypeName>Motor</SubtypeName>
                       </PhysicalContent>
                       <ItemId>24</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>2</Amount>
+                      <Amount>13</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Computer</SubtypeName>
+                        <SubtypeName>Construction</SubtypeName>
                       </PhysicalContent>
                       <ItemId>25</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>84</Amount>
+                      <Amount>31</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>Construction</SubtypeName>
+                        <SubtypeName>SmallTube</SubtypeName>
                       </PhysicalContent>
                       <ItemId>26</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>67</Amount>
+                      <Amount>42</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>SmallTube</SubtypeName>
+                        <SubtypeName>Computer</SubtypeName>
                       </PhysicalContent>
                       <ItemId>27</ItemId>
                     </MyObjectBuilder_InventoryItem>
                     <MyObjectBuilder_InventoryItem>
-                      <Amount>1749</Amount>
+                      <Amount>145</Amount>
                       <PhysicalContent xsi:type="MyObjectBuilder_Component">
-                        <SubtypeName>SteelPlate</SubtypeName>
+                        <SubtypeName>InteriorPlate</SubtypeName>
                       </PhysicalContent>
                       <ItemId>28</ItemId>
                     </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>31</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>Girder</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>30</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>17</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_Component">
+                        <SubtypeName>SolarCell</SubtypeName>
+                      </PhysicalContent>
+                      <ItemId>31</ItemId>
+                    </MyObjectBuilder_InventoryItem>
+                    <MyObjectBuilder_InventoryItem>
+                      <Amount>1</Amount>
+                      <PhysicalContent xsi:type="MyObjectBuilder_PhysicalGunObject">
+                        <SubtypeName>PhysicalPaintGun</SubtypeName>
+                        <GunEntity xsi:type="MyObjectBuilder_AutomaticRifle">
+                          <SubtypeName>PaintGun</SubtypeName>
+                          <EntityId>143432651015520730</EntityId>
+                          <PersistentFlags>None</PersistentFlags>
+                        </GunEntity>
+                      </PhysicalContent>
+                      <ItemId>32</ItemId>
+                    </MyObjectBuilder_InventoryItem>
                   </Items>
-                  <nextItemId>29</nextItemId>
+                  <nextItemId>33</nextItemId>
                   <Volume>15.625</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -1999,7 +2036,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
             <float>1</float>
             <float>1</float>
             <float>1</float>
-            <float>0.666889131</float>
+            <float>0.6668888</float>
             <float>1</float>
           </ImmediateEffectivities>
         </MyObjectBuilder_CubeBlock>
@@ -2044,7 +2081,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2059,8 +2096,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-4" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
@@ -2089,28 +2125,28 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>472.483292</Amount>
+                          <Amount>469.783292</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Cobalt</SubtypeName>
                           </PhysicalContent>
                           <ItemId>0</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7468.358002</Amount>
+                          <Amount>7548.724024</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Stone</SubtypeName>
                           </PhysicalContent>
                           <ItemId>1</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>1036.976438</Amount>
+                          <Amount>1018.512694</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Nickel</SubtypeName>
                           </PhysicalContent>
                           <ItemId>2</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>1961.334057</Amount>
+                          <Amount>1922.141149</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Silicon</SubtypeName>
                           </PhysicalContent>
@@ -2124,14 +2160,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                           <ItemId>4</ItemId>
                         </MyObjectBuilder_InventoryItem>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>617.63544</Amount>
+                          <Amount>61.53863</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Iron</SubtypeName>
                           </PhysicalContent>
-                          <ItemId>191</ItemId>
+                          <ItemId>5</ItemId>
                         </MyObjectBuilder_InventoryItem>
                       </Items>
-                      <nextItemId>192</nextItemId>
+                      <nextItemId>6</nextItemId>
                       <Volume>4</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -2141,7 +2177,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                     </MyObjectBuilder_InventoryBase>
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items />
-                      <nextItemId>134</nextItemId>
+                      <nextItemId>18</nextItemId>
                       <Volume>4</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -2160,7 +2196,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <NextItemId>1524</NextItemId>
+          <NextItemId>1696</NextItemId>
           <CurrentProgress>0</CurrentProgress>
           <DisassembleEnabled>false</DisassembleEnabled>
           <RepeatAssembleEnabled>false</RepeatAssembleEnabled>
@@ -2171,14 +2207,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
           <EntityId>138238198976763258</EntityId>
           <Min x="2" y="1" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
@@ -2206,7 +2241,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>4</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>1</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -2233,15 +2268,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
@@ -2255,11 +2288,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-8" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-8" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MedicalRoom">
@@ -2297,16 +2332,19 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2314,6 +2352,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="8" y="0" z="-8" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2328,11 +2367,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-6" />
           <IntegrityPercent>0.98</IntegrityPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2340,6 +2381,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="8" y="0" z="-6" />
           <IntegrityPercent>0.781265259</IntegrityPercent>
           <BuildPercent>0.781265259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>5</Amount>
@@ -2355,6 +2397,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="6" y="0" z="-8" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2368,11 +2411,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-8" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenGenerator">
@@ -2414,7 +2459,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                       <ItemId>2</ItemId>
                     </MyObjectBuilder_InventoryItem>
                   </Items>
-                  <nextItemId>5</nextItemId>
+                  <nextItemId>3</nextItemId>
                   <Volume>4</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -2435,67 +2480,73 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-6" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-8" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-8" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2503,6 +2554,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="5" y="0" z="-5" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2516,7 +2568,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2524,11 +2576,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="4" y="0" z="-6" />
           <IntegrityPercent>0.8125</IntegrityPercent>
           <BuildPercent>0.8125</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorSorter">
@@ -2547,7 +2601,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>196</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>1</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -2574,15 +2628,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-5" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Refinery">
@@ -2602,7 +2654,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                   <Inventories>
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items />
-                      <nextItemId>10</nextItemId>
+                      <nextItemId>0</nextItemId>
                       <Volume>7.5</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -2612,7 +2664,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                     </MyObjectBuilder_InventoryBase>
                     <MyObjectBuilder_InventoryBase xsi:type="MyObjectBuilder_Inventory">
                       <Items />
-                      <nextItemId>468</nextItemId>
+                      <nextItemId>0</nextItemId>
                       <Volume>7.5</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -2632,30 +2684,30 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
           <UseConveyorSystem>false</UseConveyorSystem>
-          <NextItemId>576</NextItemId>
+          <NextItemId>579</NextItemId>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-4" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
@@ -2670,13 +2722,13 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2691,58 +2743,61 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="-6" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="4" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
@@ -2757,23 +2812,25 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="5" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-6" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2781,6 +2838,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="9" y="0" z="-4" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2794,62 +2852,67 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="6" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-5" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-4" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-3" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="7" y="0" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="8" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2857,7 +2920,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="9" y="0" z="-3" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2871,18 +2934,19 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="-1" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="10" y="0" z="0" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855914</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="9" y="0" z="-7" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855913</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2890,6 +2954,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="10" y="0" z="-6" />
           <IntegrityPercent>0.937515259</IntegrityPercent>
           <BuildPercent>0.937515259</BuildPercent>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <ConstructionStockpile>
             <Items xsi:type="MyObjectBuilder_StockpileItem">
               <Amount>1</Amount>
@@ -2981,7 +3046,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Enabled>true</Enabled>
           <ImmediateEffectivities>
             <float>1</float>
-            <float>0.6668892</float>
+            <float>0.6668903</float>
             <float>1</float>
             <float>1</float>
             <float>1</float>
@@ -3102,7 +3167,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Enabled>true</Enabled>
           <ImmediateEffectivities>
             <float>1</float>
-            <float>0.6668892</float>
+            <float>0.6668895</float>
             <float>1</float>
             <float>1</float>
             <float>1</float>
@@ -3130,7 +3195,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
             <float>1</float>
             <float>1</float>
             <float>1</float>
-            <float>0.6668888</float>
+            <float>0.666889131</float>
             <float>1</float>
             <float>1</float>
             <float>1</float>
@@ -3141,8 +3206,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-4" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ShipConnector">
@@ -3182,20 +3246,20 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ConnectedEntityId>84521876584103382</ConnectedEntityId>
           <MasterToSlaveTransform>
             <Position x="0.0063304626382887363" y="0.002537259366363287" z="-1.8406829833984375" />
-            <Forward x="-0.002768334" y="-0.00126551837" z="0.99999547" />
-            <Up x="-0.0561103821" y="-0.998423636" z="-0.00141886226" />
+            <Forward x="-0.0027683354" y="-0.00126552" z="0.999998569" />
+            <Up x="-0.0561105" y="-0.998426735" z="-0.00141886412" />
             <Orientation>
               <X>0.9996049</X>
-              <Y>-0.0280671977</Y>
-              <Z>0.00136586337</Z>
-              <W>-0.0006713604</W>
+              <Y>-0.0280671678</Y>
+              <Z>0.00136585976</Z>
+              <W>-0.0006713591</W>
             </Orientation>
           </MasterToSlaveTransform>
           <MasterToSlaveGrid xsi:nil="true" />
           <IsMaster>false</IsMaster>
           <TradingEnabled>false</TradingEnabled>
           <AutoUnlockTime>0</AutoUnlockTime>
-          <TimeOfConnection>188293</TimeOfConnection>
+          <TimeOfConnection>0</TimeOfConnection>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
           <SubtypeName>ConveyorTubeCurved</SubtypeName>
@@ -3233,120 +3297,103 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
           <EntityId>96164188066218320</EntityId>
           <Min x="1" y="1" z="-2" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-6" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-5" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-6" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-7" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-7" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="3" y="0" z="-8" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="2" y="0" z="-8" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-8" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-8" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-7" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-7" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-6" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-6" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="1" y="0" z="-5" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="0" y="0" z="-5" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-5" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -3354,21 +3401,126 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <Min x="-1" y="0" z="-6" />
           <IntegrityPercent>0.96</IntegrityPercent>
           <BuildPercent>0.96</BuildPercent>
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-7" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
-          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
           <SubtypeName>LargeBlockArmorBlock</SubtypeName>
           <Min x="-1" y="0" z="-8" />
-          <ColorMaskHSV x="0" y="-0.8" z="0" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
+          <SubtypeName>ConveyorTubeCurved</SubtypeName>
+          <EntityId>100701153300356128</EntityId>
+          <Min x="-1" y="0" z="1" />
+          <BlockOrientation Forward="Up" Up="Backward" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorSorter">
+          <SubtypeName>LargeBlockConveyorSorter</SubtypeName>
+          <EntityId>72919270697185984</EntityId>
+          <Min x="0" y="0" z="1" />
+          <BlockOrientation Forward="Right" Up="Up" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <Owner>144115188075855897</Owner>
+          <BuiltBy>144115188075855897</BuiltBy>
+          <ShareMode>Faction</ShareMode>
+          <ComponentContainer>
+            <Components>
+              <ComponentData>
+                <TypeId>MyInventoryBase</TypeId>
+                <Component xsi:type="MyObjectBuilder_Inventory">
+                  <Items />
+                  <nextItemId>0</nextItemId>
+                  <Volume>1</Volume>
+                  <Mass>9223372036854.775807</Mass>
+                  <MaxItemCount>2147483647</MaxItemCount>
+                  <Size xsi:nil="true" />
+                  <InventoryFlags>CanSend</InventoryFlags>
+                  <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                </Component>
+              </ComponentData>
+            </Components>
+          </ComponentContainer>
+          <CustomName>Sorter de retorno para refinaria</CustomName>
+          <ShowOnHUD>false</ShowOnHUD>
+          <ShowInTerminal>true</ShowInTerminal>
+          <ShowInToolbarConfig>true</ShowInToolbarConfig>
+          <ShowInInventory>true</ShowInInventory>
+          <Enabled>true</Enabled>
+          <IsWhiteList>true</IsWhiteList>
+          <DefinitionIds />
+          <DefinitionTypes>
+            <unsignedByte>5</unsignedByte>
+          </DefinitionTypes>
+          <DrainAll>true</DrainAll>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
+          <SubtypeName>ConveyorTube</SubtypeName>
+          <EntityId>79451019898177939</EntityId>
+          <Min x="1" y="0" z="1" />
+          <BlockOrientation Forward="Down" Up="Right" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
+          <SubtypeName>ConveyorTube</SubtypeName>
+          <EntityId>133531585750630584</EntityId>
+          <Min x="2" y="0" z="1" />
+          <BlockOrientation Forward="Down" Up="Right" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
+          <SubtypeName>ConveyorTubeCurved</SubtypeName>
+          <EntityId>78772174195219072</EntityId>
+          <Min x="3" y="0" z="1" />
+          <BlockOrientation Forward="Up" Up="Right" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+          <EntityId>135492968008753896</EntityId>
+          <Min x="1" y="1" z="1" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+          <EntityId>87710401372983544</EntityId>
+          <Min x="0" y="1" z="1" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+          <EntityId>80508397787092905</EntityId>
+          <Min x="2" y="1" z="1" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+          <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
+          <BuiltBy>144115188075855897</BuiltBy>
+        </MyObjectBuilder_CubeBlock>
+        <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+          <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+          <EntityId>88953525136552405</EntityId>
+          <Min x="3" y="1" z="1" />
+          <ColorMaskHSV x="0" y="-0.8" z="0.55" />
           <SkinSubtypeId>Clean_Armor</SkinSubtypeId>
           <BuiltBy>144115188075855897</BuiltBy>
         </MyObjectBuilder_CubeBlock>
@@ -3489,16 +3641,45 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ConveyorLineType>LARGE_LINE</ConveyorLineType>
         </MyObjectBuilder_ConveyorLine>
         <MyObjectBuilder_ConveyorLine>
+          <StartPosition x="0" y="0" z="0" />
+          <StartDirection>Left</StartDirection>
+          <EndPosition x="-1" y="0" z="0" />
+          <EndDirection>Right</EndDirection>
+          <Sections />
+          <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+          <ConveyorLineConductivity>BACKWARD</ConveyorLineConductivity>
+        </MyObjectBuilder_ConveyorLine>
+        <MyObjectBuilder_ConveyorLine>
           <StartPosition x="-1" y="1" z="0" />
           <StartDirection>Down</StartDirection>
-          <EndPosition x="0" y="0" z="0" />
+          <EndPosition x="-1" y="0" z="0" />
+          <EndDirection>Up</EndDirection>
+          <Sections />
+          <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+        </MyObjectBuilder_ConveyorLine>
+        <MyObjectBuilder_ConveyorLine>
+          <StartPosition x="-1" y="0" z="0" />
+          <StartDirection>Backward</StartDirection>
+          <EndPosition x="0" y="0" z="1" />
           <EndDirection>Left</EndDirection>
           <Sections>
-            <Section Direction="Down" Length="1" />
+            <Section Direction="Backward" Length="1" />
             <Section Direction="Right" Length="1" />
           </Sections>
           <ConveyorLineType>LARGE_LINE</ConveyorLineType>
-          <ConveyorLineConductivity>FORWARD</ConveyorLineConductivity>
+          <ConveyorLineConductivity>BACKWARD</ConveyorLineConductivity>
+        </MyObjectBuilder_ConveyorLine>
+        <MyObjectBuilder_ConveyorLine>
+          <StartPosition x="0" y="0" z="1" />
+          <StartDirection>Right</StartDirection>
+          <EndPosition x="3" y="0" z="0" />
+          <EndDirection>Backward</EndDirection>
+          <Sections>
+            <Section Direction="Right" Length="3" />
+            <Section Direction="Forward" Length="1" />
+          </Sections>
+          <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+          <ConveyorLineConductivity>BACKWARD</ConveyorLineConductivity>
         </MyObjectBuilder_ConveyorLine>
       </ConveyorLines>
       <DisplayName>Static Grid 6018</DisplayName>
@@ -3512,14 +3693,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>82791257376644935</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="8605.9762102948771" y="48180.490814803139" z="37464.695539263732" />
-        <Forward x="0.167569071" y="0.9063672" z="0.38783884" />
-        <Up x="-0.9843247" y="0.1757658" z="0.014526993" />
+        <Position x="8605.9766061205519" y="48180.491110920091" z="37464.694897067" />
+        <Forward x="0.169124365" y="0.9077584" z="0.3838902" />
+        <Up x="-0.9840258" y="0.1774887" z="0.0138212442" />
         <Orientation>
-          <X>-0.5378362</X>
-          <Y>0.636122346</Y>
-          <Z>-0.3504987</Z>
-          <W>-0.428055137</W>
+          <X>-0.536379457</X>
+          <Y>0.6358004</Y>
+          <Z>-0.35150066</Z>
+          <W>-0.429537117</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -3536,14 +3717,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>103735393668971128</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35311.292806135767" y="46685.842434186008" z="28068.507580314537" />
-        <Forward x="0.980916262" y="-0.155995369" z="0.116053879" />
-        <Up x="0.05367744" y="-0.356421" z="-0.9327822" />
+        <Position x="-35311.286820607245" y="46685.836625440352" z="28068.511951119959" />
+        <Forward x="0.9812897" y="-0.151740521" z="0.118512332" />
+        <Up x="0.0561147332" y="-0.3634115" z="-0.9299371" />
         <Orientation>
-          <X>0.644078553</X>
-          <Y>0.37840423</Y>
-          <Z>-0.5131991</Z>
-          <W>-0.422610581</W>
+          <X>0.6453878</X>
+          <Y>0.377797157</Y>
+          <Z>-0.5149566</Z>
+          <W>-0.41900295</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -3559,14 +3740,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>83155582424741797</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35303.147119032496" y="46672.52937342551" z="28072.622846637627" />
-        <Forward x="0.8513096" y="0.1270968" z="-0.5090366" />
-        <Up x="-0.2948649" y="-0.6865959" z="-0.6645603" />
+        <Position x="-35303.135678486884" y="46672.525803907149" z="28072.624095590174" />
+        <Forward x="0.8558794" y="0.128853858" z="-0.5008662" />
+        <Up x="-0.281795859" y="-0.695884347" z="-0.660557151" />
         <Orientation>
-          <X>-0.4311593</X>
-          <Y>-0.244097</Y>
-          <Z>0.810801864</Z>
-          <W>0.311638653</W>
+          <X>-0.4362791</X>
+          <Y>-0.243366838</Y>
+          <Z>0.8109271</Z>
+          <W>0.304680735</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -3582,14 +3763,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>102104888359020644</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35310.475045668238" y="46683.233536023166" z="28070.386510406395" />
-        <Forward x="0.692954361" y="0.2840133" z="0.6626844" />
-        <Up x="-0.7203638" y="0.234702051" z="0.6526798" />
+        <Position x="-35310.474961476386" y="46683.233067853682" z="28070.38669934994" />
+        <Forward x="0.693474352" y="0.283453554" z="0.66238004" />
+        <Up x="-0.719896257" y="0.235564664" z="0.652884841" />
         <Orientation>
-          <X>-0.6037008</X>
-          <Y>0.6832917</Y>
-          <Z>0.1348862</Z>
-          <W>-0.38789627</W>
+          <X>-0.603292</X>
+          <Y>0.6835414</Y>
+          <Z>0.135116667</Z>
+          <W>-0.3880122</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -3605,14 +3786,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>91451577593678798</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="7514.4341570722208" y="47341.853363631264" z="38760.8636911192" />
-        <Forward x="-0.287999779" y="-0.928585768" z="-0.2340607" />
-        <Up x="0.9175574" y="-0.3375436" z="0.21012482" />
+        <Position x="7514.4352853197706" y="47341.854849933763" z="38760.862194430279" />
+        <Forward x="-0.287819326" y="-0.9285635" z="-0.234370738" />
+        <Up x="0.9175615" y="-0.33747" z="0.210224986" />
         <Orientation>
-          <X>0.455345541</X>
-          <Y>0.419082373</Y>
-          <Z>0.6792881</Z>
-          <W>-0.3944592</W>
+          <X>0.455192029</X>
+          <Y>0.419064283</Y>
+          <Z>0.6793639</Z>
+          <W>-0.3945251</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -3894,14 +4075,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>111409257071462581</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35319.669829832666" y="46688.979616421726" z="28069.028429542443" />
-        <Forward x="0.7981968" y="-0.165731072" z="0.57915" />
-        <Up x="0.5739261" y="-0.08284895" z="-0.814705253" />
+        <Position x="-35319.6654388476" y="46688.965564115279" z="28069.028558881342" />
+        <Forward x="0.807729363" y="-0.1762419" z="0.5625941" />
+        <Up x="0.566910744" y="-0.0297366381" z="-0.8232424" />
         <Orientation>
-          <X>0.679154456</X>
-          <Y>0.5729959</Y>
-          <Z>-0.2831496</Z>
-          <W>-0.360903352</W>
+          <X>0.66222167</X>
+          <Y>0.5854567</Y>
+          <Z>-0.276280284</Z>
+          <W>-0.377322376</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -3917,14 +4098,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>101231841197716969</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9390.7452217923747" y="48535.929825900093" z="36715.703447131164" />
-        <Forward x="-0.8236034" y="-0.225016743" z="0.520619452" />
-        <Up x="0.157747671" y="0.7908308" z="0.5913563" />
+        <Position x="9390.745658626045" y="48535.932057260652" z="36715.705059420514" />
+        <Forward x="-0.8236817" y="-0.225535" z="0.520271063" />
+        <Up x="0.157389775" y="0.7905226" z="0.5918635" />
         <Orientation>
-          <X>0.2150591</X>
-          <Y>0.8450203</Y>
-          <Z>0.2415247</Z>
-          <W>0.425859183</W>
+          <X>0.215044469</X>
+          <Y>0.844921</Y>
+          <Z>0.241856545</Z>
+          <W>0.425875366</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -4181,9 +4362,9 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <PilotRelativeWorld>
             <Position x="-1.3245235681533813" y="-1.4636251926422119" z="-1.5054404735565186" />
             <Forward x="0.5980285" y="-0.00483096438" z="0.8014603" />
-            <Up x="3.075709E-05" y="0.999982" z="0.00600464363" />
+            <Up x="3.075729E-05" y="0.999982" z="0.00600464363" />
             <Orientation>
-              <X>-0.0009313193</X>
+              <X>-0.000931319257</X>
               <Y>0.9490676</Y>
               <Z>0.00285427738</Z>
               <W>-0.315058261</W>
@@ -4497,7 +4678,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SafetyDetach>5</SafetyDetach>
           <RotorEntityId xsi:nil="true" />
           <WeldedEntityId xsi:nil="true" />
-          <SteerAngle>0.00216657668</SteerAngle>
+          <SteerAngle>-0.0278334226</SteerAngle>
           <Damping>0.9</Damping>
           <Strength>3.40282347E+38</Strength>
           <Propulsion>true</Propulsion>
@@ -4533,7 +4714,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SafetyDetach>5</SafetyDetach>
           <RotorEntityId xsi:nil="true" />
           <WeldedEntityId xsi:nil="true" />
-          <SteerAngle>0.00216657668</SteerAngle>
+          <SteerAngle>-0.0278334226</SteerAngle>
           <Damping>0.9</Damping>
           <Strength>3.40282347E+38</Strength>
           <Propulsion>true</Propulsion>
@@ -4569,7 +4750,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SafetyDetach>5</SafetyDetach>
           <RotorEntityId xsi:nil="true" />
           <WeldedEntityId xsi:nil="true" />
-          <SteerAngle>-0.00216657668</SteerAngle>
+          <SteerAngle>0.0278334226</SteerAngle>
           <Damping>0.9</Damping>
           <Strength>3.40282347E+38</Strength>
           <Propulsion>true</Propulsion>
@@ -4605,7 +4786,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <SafetyDetach>5</SafetyDetach>
           <RotorEntityId xsi:nil="true" />
           <WeldedEntityId xsi:nil="true" />
-          <SteerAngle>-0.00216657668</SteerAngle>
+          <SteerAngle>0.0278334226</SteerAngle>
           <Damping>0.9</Damping>
           <Strength>3.40282347E+38</Strength>
           <Propulsion>true</Propulsion>
@@ -4812,14 +4993,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>111453166635095831</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="-35320.471305357569" y="46690.293909329441" z="28068.597314391991" />
-        <Forward x="-0.457039" y="0.416032463" z="-0.7861503" />
-        <Up x="0.11984846" y="0.904609263" z="0.409045726" />
+        <Position x="-35320.470524983466" y="46690.291409833662" z="28068.597204835474" />
+        <Forward x="-0.46378693" y="0.403243482" z="-0.788857639" />
+        <Up x="0.114009246" y="0.9101736" z="0.398228467" />
         <Orientation>
-          <X>0.218274817</X>
-          <Y>0.243476778</Y>
-          <Z>-0.00717394846</Z>
-          <W>0.944999337</W>
+          <X>0.211866215</X>
+          <Y>0.246340975</Y>
+          <Z>-0.00508950045</Z>
+          <W>0.9457288</W>
         </Orientation>
       </PositionAndOrientation>
       <Item>
@@ -4835,14 +5016,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>109514028002563886</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9386.35281056038" y="48537.362455127732" z="36717.05681732083" />
-        <Forward x="-0.823572" y="-0.224859238" z="0.5207372" />
-        <Up x="-0.544788837" y="0.5691605" z="-0.6158419" />
+        <Position x="9386.35225748011" y="48537.362330912729" z="36717.057997118878" />
+        <Forward x="-0.823698759" y="-0.2256262" z="0.5202046" />
+        <Up x="-0.5447937" y="0.569290757" z="-0.6157173" />
         <Orientation>
-          <X>-0.445441157</X>
-          <Y>0.7496338</Y>
-          <Z>-0.13039124</Z>
-          <W>0.4718363</W>
+          <X>-0.445445925</X>
+          <Y>0.7494533</Y>
+          <Z>-0.130125225</Z>
+          <W>0.47219184</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -4865,14 +5046,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>137586077724348901</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9389.2396447049723" y="48538.171276090638" z="36715.250581530578" />
-        <Forward x="-0.8235751" y="-0.224874452" z="0.520725846" />
-        <Up x="-0.5447874" y="0.569167852" z="-0.6158365" />
+        <Position x="9389.2390210528029" y="48538.1710525743" z="36715.251532446789" />
+        <Forward x="-0.823704" y="-0.225654945" z="0.5201838" />
+        <Up x="-0.5447681" y="0.5694221" z="-0.615618348" />
         <Orientation>
-          <X>-0.445438981</X>
-          <Y>0.7496313</Y>
-          <Z>-0.1303848</Z>
-          <W>0.4718441</W>
+          <X>-0.445386</X>
+          <Y>0.749482</Y>
+          <Z>-0.13007766</Z>
+          <W>0.4722159</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -4895,14 +5076,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>122847455894870754</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9389.2179428922282" y="48535.446864960686" z="36718.840647963531" />
-        <Forward x="0.82357204" y="0.224859923" z="-0.5207372" />
-        <Up x="0.5447889" y="-0.5691618" z="0.6158409" />
+        <Position x="9389.2177550692213" y="48535.447535633226" z="36718.842202555585" />
+        <Forward x="0.8236596" y="0.225427032" z="-0.5203531" />
+        <Up x="0.5447503" y="-0.569505453" z="0.6155569" />
         <Orientation>
-          <X>-0.471836478</X>
-          <Y>0.130390614</Y>
-          <Z>0.749634</Z>
-          <W>-0.44544068</W>
+          <X>-0.4721154</X>
+          <Y>0.130117372</Y>
+          <Z>0.7495731</Z>
+          <W>-0.44532764</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
@@ -4926,8 +5107,8 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
         <Position x="9400.2188810693369" y="48531.251124976174" z="36722.46598699475" />
-        <Forward x="0.7285972" y="0.31703347" z="-0.607153833" />
-        <Up x="0.190643623" y="0.75753665" z="0.6243342" />
+        <Forward x="0.7285973" y="0.31703347" z="-0.607153833" />
+        <Up x="0.190643638" y="0.75753665" z="0.6243342" />
         <Orientation>
           <X>0.2707331</X>
           <Y>-0.3508941</Y>
@@ -4952,7 +5133,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ShowInToolbarConfig>true</ShowInToolbarConfig>
           <ShowInInventory>true</ShowInInventory>
           <Enabled>true</Enabled>
-          <CurrentStoredPower>0.6693702</CurrentStoredPower>
+          <CurrentStoredPower>0.999999762</CurrentStoredPower>
           <ProducerEnabled>true</ProducerEnabled>
           <MaxStoredPower>0</MaxStoredPower>
           <SemiautoEnabled>false</SemiautoEnabled>
@@ -5179,8 +5360,8 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           </BuildToolbar>
           <PilotRelativeWorld>
             <Position x="-1.7848261594772339" y="-1.3244127035140991" z="1.2140655517578125" />
-            <Forward x="0.747002" y="0.121732458" z="-0.6535817" />
-            <Up x="-0.10067457" y="0.992468834" z="0.06978731" />
+            <Forward x="0.747002065" y="0.121732473" z="-0.653581738" />
+            <Up x="-0.100674465" y="0.992468834" z="0.06978722" />
             <Orientation>
               <X>0.0526884757</X>
               <Y>-0.41283536</Y>
@@ -5189,7 +5370,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
             </Orientation>
           </PilotRelativeWorld>
           <PilotGunDefinition Type="MyObjectBuilder_Welder" Subtype="Welder2" />
-          <IsInFirstPersonView>false</IsInFirstPersonView>
+          <IsInFirstPersonView>true</IsInFirstPersonView>
           <OxygenLevel>0.8017971</OxygenLevel>
           <PilotJetpackEnabled xsi:nil="true" />
           <TextPanels>
@@ -5437,7 +5618,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>8</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>3.375</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -5468,7 +5649,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>122</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>3.375</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -5508,7 +5689,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>128</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>3.375</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -5542,7 +5723,7 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
                 <TypeId>MyInventoryBase</TypeId>
                 <Component xsi:type="MyObjectBuilder_Inventory">
                   <Items />
-                  <nextItemId>18</nextItemId>
+                  <nextItemId>0</nextItemId>
                   <Volume>1.152</Volume>
                   <Mass>9223372036854.775807</Mass>
                   <MaxItemCount>2147483647</MaxItemCount>
@@ -5562,38 +5743,38 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <ConnectedEntityId>127711105050977549</ConnectedEntityId>
           <MasterToSlaveTransform>
             <Position x="0.0063304626382887363" y="0.002537259366363287" z="-1.8406829833984375" />
-            <Forward x="-0.002768334" y="-0.00126551837" z="0.99999547" />
-            <Up x="-0.0561103821" y="-0.998423636" z="-0.00141886226" />
+            <Forward x="-0.0027683354" y="-0.00126552" z="0.999998569" />
+            <Up x="-0.0561105" y="-0.998426735" z="-0.00141886412" />
             <Orientation>
               <X>0.9996049</X>
-              <Y>-0.0280671977</Y>
-              <Z>0.00136586337</Z>
-              <W>-0.0006713604</W>
+              <Y>-0.0280671678</Y>
+              <Z>0.00136585976</Z>
+              <W>-0.0006713591</W>
             </Orientation>
           </MasterToSlaveTransform>
           <MasterToSlaveGrid>
             <OrientationOffset>
-              <X>-0.00136586349</X>
-              <Y>-0.0006713604</Y>
-              <Z>0.9996049</Z>
-              <W>0.0280671977</W>
+              <X>-0.0013181275</X>
+              <Y>-0.000651106529</Y>
+              <Z>0.99960357</Z>
+              <W>0.02811677</W>
             </OrientationOffset>
             <PositionOffset>
-              <X>0.1247799</X>
-              <Y>2.00223184</Y>
-              <Z>-4.087835</Z>
+              <X>0.124560609</X>
+              <Y>2.00207233</Y>
+              <Z>-4.088155</Z>
             </PositionOffset>
             <OrientationAsVector>
-              <X>-0.00136586349</X>
-              <Y>-0.0006713604</Y>
-              <Z>0.9996049</Z>
-              <W>0.0280671977</W>
+              <X>-0.0013181275</X>
+              <Y>-0.000651106529</Y>
+              <Z>0.99960357</Z>
+              <W>0.02811677</W>
             </OrientationAsVector>
           </MasterToSlaveGrid>
           <IsMaster>true</IsMaster>
           <TradingEnabled>false</TradingEnabled>
           <AutoUnlockTime>0</AutoUnlockTime>
-          <TimeOfConnection>188293</TimeOfConnection>
+          <TimeOfConnection>0</TimeOfConnection>
         </MyObjectBuilder_CubeBlock>
         <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
           <SubtypeName>ConveyorTubeSmallCurved</SubtypeName>
@@ -6144,12 +6325,12 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
           <BoneOffset x="105" y="105" z="127" />
         </BoneInfo>
         <BoneInfo>
-          <BonePosition x="-2" y="6" z="11" />
-          <BoneOffset x="112" y="115" z="150" />
-        </BoneInfo>
-        <BoneInfo>
           <BonePosition x="2" y="3" z="1" />
           <BoneOffset x="124" y="127" z="125" />
+        </BoneInfo>
+        <BoneInfo>
+          <BonePosition x="-2" y="6" z="11" />
+          <BoneOffset x="112" y="115" z="150" />
         </BoneInfo>
         <BoneInfo>
           <BonePosition x="2" y="3" z="0" />
@@ -6215,14 +6396,14 @@ GPS:EnlightenedIndustry - Estação:-28163.3408578634:47474.6593527794:28804.235
       <EntityId>82192288303156477</EntityId>
       <PersistentFlags>CastShadows InScene</PersistentFlags>
       <PositionAndOrientation>
-        <Position x="9392.1046945439921" y="48536.255567667977" z="36717.034358290679" />
-        <Forward x="0.8236015" y="0.225006863" z="-0.520627" />
-        <Up x="0.544788361" y="-0.5691634" z="0.6158398" />
+        <Position x="9392.1044866938246" y="48536.2563112966" z="36717.035771738934" />
+        <Forward x="0.8236703" y="0.225478068" z="-0.5203141" />
+        <Up x="0.5447721" y="-0.5693929" z="0.6156417" />
         <Orientation>
-          <X>-0.471906424</X>
-          <Y>0.130348787</Y>
-          <Z>0.7495906</Z>
-          <W>-0.445452</W>
+          <X>-0.4721306</X>
+          <Y>0.130136818</Y>
+          <Z>0.749525964</Z>
+          <W>-0.4453851</W>
         </Orientation>
       </PositionAndOrientation>
       <GridSizeEnum>Small</GridSizeEnum>
