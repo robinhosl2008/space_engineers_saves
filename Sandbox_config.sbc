@@ -42,7 +42,7 @@
     <ProceduralDensity>0.35</ProceduralDensity>
     <ProceduralSeed>0</ProceduralSeed>
     <DestructibleBlocks>true</DestructibleBlocks>
-    <EnableIngameScripts>true</EnableIngameScripts>
+    <EnableIngameScripts>false</EnableIngameScripts>
     <ViewDistance>15000</ViewDistance>
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>4</VoxelGeneratorVersion>
@@ -79,7 +79,7 @@
     <EnableTurretsFriendlyFire>false</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
     <SyncDistance>3000</SyncDistance>
-    <ExperimentalMode>true</ExperimentalMode>
+    <ExperimentalMode>false</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>true</EnableVoxelHand>
     <RemoveOldIdentitiesH>0</RemoveOldIdentitiesH>
@@ -113,31 +113,5 @@
     <EconomyTickInSeconds>1200</EconomyTickInSeconds>
     <SimplifiedSimulation>false</SimplifiedSimulation>
   </Settings>
-  <Mods>
-    <ModItem FriendlyName="Text HUD API">
-      <Name>758597413.sbm</Name>
-      <PublishedFileId>758597413</PublishedFileId>
-      <IsDependency>true</IsDependency>
-    </ModItem>
-    <ModItem FriendlyName="DX11 NASA Blocks Mod">
-      <Name>337539313.sbm</Name>
-      <PublishedFileId>337539313</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="Clear LCD">
-      <Name>562524620.sbm</Name>
-      <PublishedFileId>562524620</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="Azimuth Passenger Seat &amp; Open Cockpit~(DX-11 Ready)">
-      <Name>468593951.sbm</Name>
-      <PublishedFileId>468593951</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="Ore Detector++">
-      <Name>1941903112.sbm</Name>
-      <PublishedFileId>1941903112</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="Paint Gun - realistic painting for suvival + special creative features">
-      <Name>500818376.sbm</Name>
-      <PublishedFileId>500818376</PublishedFileId>
-    </ModItem>
-  </Mods>
+  <Mods />
 </MyObjectBuilder_WorldConfiguration>
